@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- 
+https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7 
+https://profilinator.rishav.dev
+-->
+
 <!--
 **iconismo/iconismo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
